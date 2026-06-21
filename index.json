@@ -135,7 +135,38 @@
     "author": "",
     "lastUpdate": 1780065540000
   },
-  
+    {
+    "name": "anime7",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1782035972000
+  },
+      {
+    "name": "9ciyuan",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1782036328000
+  },
+      {
+    "name": "ciyuancheng",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1782036328000
+  },
+      {
+    "name": "skr",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1782036235000
+  },
   {
     "name": "orange",
     "version": "1.0",
