@@ -3,7 +3,7 @@
     "api": "4",
     "type": "anime",
     "name": "skr",
-    "version": "0.5",
+    "version": "1.0",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
