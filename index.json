@@ -176,6 +176,14 @@
     "lastUpdate": 1782007647000
   },
   {
+    "name": "k8dm",
+    "version": "0.1",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1782516269000
+  },
+  {
     "name": "xfdmneo",
     "version": "1.1",
     "useNativePlayer": true,
