@@ -95,14 +95,7 @@
     "author": "",
     "lastUpdate": 1780637024000
   },
-  {
-    "name": "mwcy",
-    "version": "1.2",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1771294191000
-  },
+
   {
     "name": "MXdm",
     "version": "2.3",
@@ -119,14 +112,7 @@
     "author": "",
     "lastUpdate": 1777179683000
   },
-  {
-    "name": "qifun",
-    "version": "2.1",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
-    "author": "",
-    "lastUpdate": 1781413737000
-  },
+ 
   {
     "name": "xfdm",
     "version": "2.1",
@@ -182,13 +168,5 @@
     "antiCrawlerEnabled": true,
     "author": "",
     "lastUpdate": 1782516269000
-  },
-  {
-    "name": "xfdmneo",
-    "version": "1.1",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1772964002000
   }
 ]
