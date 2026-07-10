@@ -1,0 +1,82 @@
+{
+  "api": "8",
+  "type": "anime",
+  "name": "瓜子影视",
+  "version": "1.7",
+  "muliSources": false,
+  "useWebview": true,
+  "useNativePlayer": false,
+  "usePost": false,
+  "useLegacyParser": false,
+  "adBlocker": false,
+  "userAgent": "Mozilla/5.0",
+  "baseURL": "https://gz360.tv/",
+  "searchURL": "",
+  "searchList": "",
+  "searchName": "",
+  "searchResult": "",
+  "chapterRoads": "",
+  "chapterResult": "",
+  "referer": "https://gz360.tv/",
+  "searchMode": "api",
+  "chapterMode": "api",
+  "searchApiConfig": {
+    "request": {
+      "method": "POST",
+      "url": "https://haiwaiapi.1fc8ab0.com/Pc/Search/GetConditionList",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyType": "json",
+      "body": {
+        "keywords": "@keyword",
+        "page": 1,
+        "pageSize": 20,
+        "tid": 0,
+        "area": 0,
+        "year": 0,
+        "sort": "d_id"
+      }
+    },
+    "listPath": "$.data.list[*]",
+    "namePath": "$.vod_name",
+    "sourcePath": "$.vod_id"
+  },
+  "chapterApiConfig": {
+    "request": {
+      "method": "POST",
+      "url": "https://haiwaiapi.1fc8ab0.com/Pc/Resource/GetOnePlayList",
+      "headers": {
+        "Content-Type": "application/json"
+      },
+      "bodyType": "json",
+      "body": {
+        "vod_id": "@source",
+        "page": 1,
+        "page_size": 24
+      }
+    },
+    "format": "nested",
+    "roadsPath": "$.data",
+    "roadNamePath": "$.total_vod_vurl",
+    "episodesPath": "$.urls[*]",
+    "episodeNamePath": "$.name",
+    "episodeUrlPath": "$.__nonexist__",
+    "episodePage": {
+      "url": "https://gz360.tv/videoDetail/@source",
+      "query": {
+        "episode": "@episodeNumber"
+      }
+    }
+  },
+  "antiCrawlerConfig": {
+    "enabled": false,
+    "captchaType": 1,
+    "captchaImage": "",
+    "captchaInput": "",
+    "captchaButton": "",
+    "captchaDetectType": 1,
+    "captchaDetectValue": "",
+    "captchaScript": ""
+  }
+}
