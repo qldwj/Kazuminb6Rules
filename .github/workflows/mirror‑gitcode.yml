@@ -1,0 +1,13 @@
+name: Mirror‑to‑GitCode‑gh‑mirrors
+on:
+  push:
+    branches: [ main ]
+jobs:
+  mirror_task:
+    runs‑on: ubuntu‑latest
+    steps:
+      - uses: Yikun/hub‑mirror‑action@master
+        with:
+          src: github/qldwj/Kazuminb6Rules
+          dst: gitcode/gh_mirrors/qldwj/Kazuminb6Rules
+          dst_token: ${{ secrets.GITCODE_TOKEN }}
