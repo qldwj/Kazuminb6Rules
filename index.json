@@ -1,4 +1,12 @@
 [
+    {
+    "name": "1hi欢迎访问我的规则仓库",
+    "version": "9.9",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 2534021856000
+  },
   {
     "name": "7sefun",
     "version": "1.2",
