@@ -196,6 +196,14 @@
     "lastUpdate": 1783698863000
   },
   {
+    "name": "AGE",
+    "version": "1.5",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783767326000
+  },
+  {
     "name": "LZZY",
     "version": "1.0",
     "useNativePlayer": true,
@@ -212,3 +220,4 @@
     "lastUpdate": 1782516269000
   }
 ]
+
