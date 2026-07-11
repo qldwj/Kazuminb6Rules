@@ -1,0 +1,62 @@
+{
+  "api": "8",
+  "type": "anime",
+  "name": "LZZY",
+  "version": "1.0",
+  "muliSources": true,
+  "useWebview": true,
+  "useNativePlayer": true,
+  "usePost": false,
+  "useLegacyParser": false,
+  "adBlocker": false,
+  "userAgent": "",
+  "baseURL": "https://lzizy.net/",
+  "searchURL": "",
+  "searchList": "",
+  "searchName": "",
+  "searchResult": "",
+  "chapterRoads": "",
+  "chapterResult": "",
+  "referer": "",
+  "searchMode": "api",
+  "chapterMode": "api",
+  "searchApiConfig": {
+    "request": {
+      "method": "GET",
+      "url": "https://macapi1.com/maccms/json/liangzi/",
+      "query": {
+        "ac": "videolist",
+        "wd": "@keyword"
+      }
+    },
+    "listPath": "$.list[*]",
+    "namePath": "$.vod_name",
+    "sourcePath": "$.vod_id"
+  },
+  "chapterApiConfig": {
+    "request": {
+      "method": "GET",
+      "url": "https://macapi1.com/maccms/json/liangzi/",
+      "query": {
+        "ac": "detail",
+        "ids": "@source"
+      }
+    },
+    "format": "delimited",
+    "roadNamesPath": "$.list[0].vod_down_from",
+    "roadEpisodesPath": "$.list[0].vod_down_url",
+    "roadSeparator": "$$$",
+    "episodeSeparator": "#",
+    "fieldSeparator": "$"
+  },
+  "antiCrawlerConfig": {
+    "enabled": false,
+    "captchaType": 1,
+    "captchaImage": "",
+    "captchaInput": "",
+    "captchaButton": "",
+    "captchaDetectType": 1,
+    "captchaDetectValue": "",
+    "captchaScript": ""
+  }
+}

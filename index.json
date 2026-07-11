@@ -1,19 +1,11 @@
 [
-    {
-    "name": "1欢迎访问我的规则仓库#^_^#",
-    "version": "官网:qlyyz.xyz",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 21474836470000
-  },
   {
     "name": "7sefun",
     "version": "1.2",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1770510517000
+    "lastUpdate": 1770510516000
   },
   {
     "name": "aafun",
@@ -87,7 +79,7 @@
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1783670792000
+    "lastUpdate": 1780897282000
   },
   {
     "name": "mutefun",
@@ -145,7 +137,7 @@
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1783663306000
+    "lastUpdate": 1782036328000
   },
       {
     "name": "FQDM",
@@ -179,21 +171,21 @@
     "author": "",
     "lastUpdate": 1782007647000
   },
-      {
+  {
+    "name": "LZZY",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",  
+    "lastUpdate": 1783765936000
+  },
+  {
     "name": "ylsp",
     "version": "1.1",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
     "lastUpdate": 1782007647000
-  },
-{
-    "name": "瓜子影视",
-    "version": "1.7",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
-    "author": "",
-    "lastUpdate": 1783698863000
   },
   {
     "name": "k8dm",
