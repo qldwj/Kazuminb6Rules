@@ -204,6 +204,62 @@
     "lastUpdate": 1783767326000
   },
   {
+    "name": "yishijie",
+    "version": "1.1",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
+    "name": "qkan9",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
+    "name": "Fantuan",
+    "version": "2.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
+    "name": "mwcy",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
+    "name": "eacg",
+    "version": "0.0.1",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
+    "name": "WYDM",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
+    "name": "ant",
+    "version": "0.0.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1783834351000
+  },
+  {
     "name": "LZZY",
     "version": "1.0",
     "useNativePlayer": true,
@@ -220,4 +276,3 @@
     "lastUpdate": 1782516269000
   }
 ]
-
