@@ -181,7 +181,7 @@
   },
       {
     "name": "skr",
-    "version": "1.0",
+    "version": "0.5",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
