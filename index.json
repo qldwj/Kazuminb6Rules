@@ -40,14 +40,7 @@
     "author": "",
     "lastUpdate": 1769573721000
   },
-  {
-    "name": "ciyuancheng",
-    "version": "2.0",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
-    "author": "",
-    "lastUpdate": 1784178919000
-  },
+
   {
     "name": "dalvdm",
     "version": "1.0",
@@ -64,14 +57,7 @@
     "author": "",
     "lastUpdate": 1770015775000
   },
-  {
-    "name": "enlie",
-    "version": "1.0",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1773203174000
-  },
+
   {
     "name": "fcdm",
     "version": "1.0",
@@ -122,14 +108,7 @@
     "author": "",
     "lastUpdate": 1771938941000
   },
-  {
-    "name": "omofun03",
-    "version": "1.1",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1777179683000
-  },
+
  
   {
     "name": "sorani",
@@ -179,14 +158,7 @@
     "author": "",
     "lastUpdate": 1782036328000
   },
-      {
-    "name": "skr",
-    "version": "0.5",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
-    "author": "",
-    "lastUpdate": 1782036235000
-  },
+
   {
     "name": "orange",
     "version": "1.0",
@@ -267,14 +239,7 @@
     "author": "",
     "lastUpdate": 1783834351000
   },
-  {
-    "name": "WYDM",
-    "version": "1.2",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
-    "author": "",
-    "lastUpdate": 1783834351000
-  },
+
   {
     "name": "ant",
     "version": "0.0.2",
