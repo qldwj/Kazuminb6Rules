@@ -168,6 +168,14 @@
     "lastUpdate": 1783657286000
   },
     {
+    "name": "LMM",
+    "version": "3.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1786104701000
+  },
+    {
     "name": "dmghg",
     "version": "1.0",
     "useNativePlayer": true,
