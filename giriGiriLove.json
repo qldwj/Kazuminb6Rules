@@ -2,12 +2,12 @@
     "api": "6",
     "type": "anime",
     "name": "giriGiriLove",
-    "version": "2.3",
+    "version": "2.4",
     "muliSources": true,
     "useWebview": true,
     "useNativePlayer": true,
     "usePost": false,
-    "useLegacyParser": false,
+    "useLegacyParser": true,
     "adBlocker": false,
     "userAgent": "",
     "baseURL": "https://ani.girigirilove.com",
@@ -22,7 +22,7 @@
         "enabled": true,
         "captchaType": 1,
         "captchaImage": "//img[@class='ds-verify-img']",
-        "captchaInput": "//div[4]/div[2]/div/div/input",
-        "captchaButton": "//div[4]/div[2]/button"
+        "captchaInput": "//input[@name='verify']",
+        "captchaButton": "//button[contains(@class,'verify-submit')]"
     }
 }
