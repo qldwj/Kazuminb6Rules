@@ -97,7 +97,22 @@
     "author": "",
     "lastUpdate": 1780637024000
   },
-
+  {
+    "name": "ezdmw",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1787018785000
+  },
+  {
+    "name": "akianime",
+    "version": "1.4",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1787018785000
+  },
   {
     "name": "MXdm",
     "version": "2.3",
