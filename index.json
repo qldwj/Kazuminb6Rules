@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "1欢迎访问我的规则仓库#^_^#",
     "version": "官网:qlyyz.xyz",
     "useNativePlayer": true,
@@ -31,7 +31,6 @@
     "author": "",
     "lastUpdate": 1784178919000
   },
-
   {
     "name": "baimao",
     "version": "1.0",
@@ -48,7 +47,6 @@
     "author": "",
     "lastUpdate": 1770015775000
   },
-
   {
     "name": "fcdm",
     "version": "1.0",
@@ -69,7 +67,7 @@
     "name": "xfdmnext",
     "version": "1.0",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1786557298000
   },
@@ -101,7 +99,7 @@
     "name": "ezdmw",
     "version": "1.2",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1787018785000
   },
@@ -109,7 +107,7 @@
     "name": "akianime",
     "version": "1.4",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1787018785000
   },
@@ -121,8 +119,6 @@
     "author": "",
     "lastUpdate": 1771938941000
   },
-
- 
   {
     "name": "sorani",
     "version": "1.0",
@@ -147,7 +143,7 @@
     "author": "",
     "lastUpdate": 1780065540000
   },
-    {
+  {
     "name": "anime7",
     "version": "1.0",
     "useNativePlayer": true,
@@ -155,7 +151,7 @@
     "author": "",
     "lastUpdate": 1782035972000
   },
-      {
+  {
     "name": "9ciyuan",
     "version": "1.3",
     "useNativePlayer": true,
@@ -163,7 +159,7 @@
     "author": "",
     "lastUpdate": 1784178919000
   },
-      {
+  {
     "name": "FQDM",
     "version": "2.0",
     "useNativePlayer": true,
@@ -171,7 +167,6 @@
     "author": "",
     "lastUpdate": 1782036328000
   },
-
   {
     "name": "orange",
     "version": "1.0",
@@ -180,7 +175,7 @@
     "author": "",
     "lastUpdate": 1783657286000
   },
-    {
+  {
     "name": "LMM",
     "version": "3.0",
     "useNativePlayer": true,
@@ -188,15 +183,15 @@
     "author": "",
     "lastUpdate": 1786104701000
   },
-    {
+  {
     "name": "dmghg",
     "version": "1.0",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1782007647000
   },
-      {
+  {
     "name": "ylsp",
     "version": "1.1",
     "useNativePlayer": true,
@@ -204,7 +199,7 @@
     "author": "",
     "lastUpdate": 1782007647000
   },
-{
+  {
     "name": "瓜子影视",
     "version": "1.7",
     "useNativePlayer": true,
@@ -216,7 +211,7 @@
     "name": "AGE",
     "version": "1.5",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1783767326000
   },
@@ -244,7 +239,6 @@
     "author": "",
     "lastUpdate": 1783834351000
   },
-
   {
     "name": "eacg",
     "version": "0.0.1",
@@ -253,7 +247,6 @@
     "author": "",
     "lastUpdate": 1783834351000
   },
-
   {
     "name": "ant",
     "version": "0.0.2",
