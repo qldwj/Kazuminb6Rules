@@ -17,11 +17,11 @@
   },
   {
     "name": "moonci",
-    "version": "1.0",
+    "version": "1.1",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1786395070000
+    "lastUpdate": 17886222980000
   },
   {
     "name": "gpjda",
@@ -89,11 +89,11 @@
   },
   {
     "name": "mutefun",
-    "version": "1.1",
+    "version": "1.2",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1780637024000
+    "lastUpdate": 1788622400000
   },
   {
     "name": "ezdmw",
@@ -102,6 +102,14 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1787018785000
+  },
+  {
+    "name": "aafun",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 178862256600
   },
   {
     "name": "akianime",
