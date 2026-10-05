@@ -1,156 +1,146 @@
 [
- {
-  "name": "7sefun",
-  "version": "1.3",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1786362131000,
-  "icon": "https://www.7sefun.top//pc/img/favicon.ico"
- },
- {
-  "name": "aafun",
-  "version": "1.2",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1787289623000,
-  "icon": ""
- },
- {
-  "name": "AGE",
-  "version": "1.5",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1758092260000,
-  "icon": "https://cdn.aqdstatic.com:966/large/008bLEJGgy1hc40ennm4uj306o06omx9.jpg"
- },
- {
-  "name": "akianime",
-  "version": "1.4",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1786942825000,
-  "icon": "https://www.akianime.cc/template/dsn2/static/img/icon.png"
- },
- {
-  "name": "baimao",
-  "version": "1.0",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1769573721000,
-  "icon": ""
- },
- {
-  "name": "dalvdm",
-  "version": "1.1",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": true,
-  "author": "",
-  "lastUpdate": 1790850696000,
-  "icon": ""
- },
- {
-  "name": "DM84",
-  "version": "1.4",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1770015775000,
-  "icon": "https://dmbus.cc/favicon.ico"
- },
- {
-  "name": "ezdmw",
-  "version": "1.2",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1786883419000,
-  "icon": "https://m.ezdmw.org/Public/images/icon.png"
- },
- {
-  "name": "giriGiriLove",
-  "version": "2.4",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": true,
-  "author": "",
-  "lastUpdate": 1786247138000,
-  "icon": ""
- },
- {
-  "name": "mgnacg",
-  "version": "1.0",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": true,
-  "author": "",
-  "lastUpdate": 1780897282000,
-  "icon": "https://r2img.nanoacg.com/favicon.png"
- },
- {
-  "name": "moonci",
-  "version": "1.0",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1787975634000,
-  "icon": "https://www.moonci.com/template/conch/asset/img/favicon.png"
- },
- {
-  "name": "mutefun",
-  "version": "1.2",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": true,
-  "author": "",
-  "lastUpdate": 1787463227000,
-  "icon": ""
- },
- {
-  "name": "MXdm",
-  "version": "2.4",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1790853597000,
-  "icon": "https://www.dcc3.com/favicon.ico"
- },
- {
-  "name": "sorani",
-  "version": "1.0",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1783910492000,
-  "icon": ""
- },
- {
-  "name": "xfdmnext",
-  "version": "1.1",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1790868808000,
-  "icon": ""
- },
- {
-  "name": "ciyuancheng",
-  "version": "3.0",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": true,
-  "author": "",
-  "lastUpdate": 1790985106542,
-  "needLogin": true,
-  "icon": "https://www.cycani.org/favicon.ico"
- },
- {
-  "name": "skr",
-  "version": "1.0",
-  "useNativePlayer": true,
-  "antiCrawlerEnabled": false,
-  "author": "",
-  "lastUpdate": 1791183070735,
-  "icon": "https://skr.skr2.cc:666/favicon.ico"
- }
+  {
+    "name": "7sefun",
+    "version": "1.3",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "aafun",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1787289623000
+  },
+  {
+    "name": "AGE",
+    "version": "1.5",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "akianime",
+    "version": "1.4",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "baimao",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "ciyuancheng",
+    "version": "3.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790996212000
+  },
+  {
+    "name": "dalvdm",
+    "version": "1.1",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "DM84",
+    "version": "1.4",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "ezdmw",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "giriGiriLove",
+    "version": "2.4",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1790990323000
+  },
+  {
+    "name": "LMM",
+    "version": "3.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "mgnacg",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "moonci",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "mutefun",
+    "version": "1.2",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": true,
+    "author": "",
+    "lastUpdate": 1790990323000
+  },
+  {
+    "name": "MXdm",
+    "version": "2.4",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "sorani",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790990323000
+  },
+  {
+    "name": "xfdmnext",
+    "version": "1.1",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1790949975000
+  },
+  {
+    "name": "樱之空动漫",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1791183081000
+  }
 ]
