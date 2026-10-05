@@ -9,6 +9,8 @@ on:
 jobs:
   update-index:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许 github-actions[bot] 推送 index.json 更新
     
     steps:
     - uses: actions/checkout@v4
