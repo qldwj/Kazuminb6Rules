@@ -15,7 +15,7 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1787289623000,
-    "icon": ""
+    "icon": "https://www.moonci.com/template/conch/asset/img/favicon.png"
   },
   {
     "name": "AGE",
@@ -24,7 +24,7 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1791191231000,
-    "icon": ""
+    "icon": "https://www.agedm.io/favicon.ico"
   },
   {
     "name": "akianime",
@@ -42,7 +42,7 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1790949975000,
-    "icon": ""
+    "icon": "https://www.baimaodm.com/hdst/hm_pic/favicon.ico"
   },
   {
     "name": "ciyuancheng",
@@ -60,7 +60,7 @@
     "antiCrawlerEnabled": true,
     "author": "",
     "lastUpdate": 1790949975000,
-    "icon": ""
+    "icon": "https://www.sbdl.cc/template/mizhiady/statics/images/favicon.png"
   },
   {
     "name": "DM84",
@@ -87,7 +87,7 @@
     "antiCrawlerEnabled": true,
     "author": "",
     "lastUpdate": 1790990323000,
-    "icon": ""
+    "icon": "https://ani.girigirilove.com/upload/anime.girigirilove.com_.png"
   },
   {
     "name": "LMM",
@@ -123,7 +123,7 @@
     "antiCrawlerEnabled": true,
     "author": "",
     "lastUpdate": 1790990323000,
-    "icon": ""
+    "icon": "https://image1.ljcdn.com/materials/cmsapi/1a5b58f50c23e5475dc6a8bb827035e2.png"
   },
   {
     "name": "MXdm",
@@ -141,7 +141,7 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1791188562000,
-    "icon": ""
+    "icon": "https://omofun.in/favicon.ico"
   },
   {
     "name": "skr",
@@ -159,7 +159,7 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1790990323000,
-    "icon": ""
+    "icon": "https://www.sorani.net/favicon.ico"
   },
   {
     "name": "xfdmnext",
@@ -168,6 +168,6 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1790949975000,
-    "icon": ""
+    "icon": "https://next.xifanacg.com/favicon.ico"
   }
 ]

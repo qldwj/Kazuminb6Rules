@@ -15,5 +15,6 @@
   "searchName": ".//div[contains(@class,'module-card-item-title')]/a",
   "searchResult": ".//div[contains(@class,'module-card-item-title')]/a",
   "chapterRoads": "//div[contains(@class,'module-play-list-content')]",
-  "chapterResult": ".//a[contains(@class,'module-play-list-link')]"
+  "chapterResult": ".//a[contains(@class,'module-play-list-link')]",
+  "icon": "https://omofun.in/favicon.ico"
 }
