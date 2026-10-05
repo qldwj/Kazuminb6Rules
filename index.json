@@ -128,6 +128,14 @@
     "lastUpdate": 1791188562000
   },
   {
+    "name": "skr",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1791190209000
+  },
+  {
     "name": "sorani",
     "version": "1.0",
     "useNativePlayer": true,
@@ -142,13 +150,5 @@
     "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1790949975000
-  },
-  {
-    "name": "樱之空动漫",
-    "version": "1.0",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1791183081000
   }
 ]
