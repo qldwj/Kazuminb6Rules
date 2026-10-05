@@ -1,0 +1,27 @@
+name: Sync to AtomGit
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  sync-atomgit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync main to AtomGit
+        run: |
+          git config --global user.name "qldwi"
+          git config --global user.email "qldwi@users.noreply.atomgit.com"
+          git remote add atomgit "https://qldwi:${ATOMGIT_TOKEN}@atomgit.com/qldwi/yhdmgz.git"
+          git push atomgit main --force
+        env:
+          ATOMGIT_TOKEN: ${{ secrets.ATOMGIT_TOKEN }}
