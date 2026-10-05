@@ -92,14 +92,9 @@ void main() async {
         final antiCrawlerEnabled = antiCrawlerConfig is Map &&
             antiCrawlerConfig['enabled'] == true;
 
-        // 图标：优先规则内 icon 字段；无 icon 时用 baseURL/favicon.ico 兜底
-        // （供 App 规则仓库列表直接显示网站图标，不再一片空白）
-        var icon = json['icon']?.toString() ?? '';
-        if (icon.isEmpty) {
-          final baseURL = json['baseURL']?.toString() ?? '';
-          final trimmed = baseURL.replaceAll(RegExp(r'/+$'), '');
-          if (trimmed.isNotEmpty) icon = '$trimmed/favicon.ico';
-        }
+        // 图标：如实取规则文件内 icon 字段；没有 icon 的条目 icon 留空，
+        // App 端显示默认图标（不猜 favicon，避免裂图）
+        final icon = json['icon']?.toString() ?? '';
 
         // 构建条目
         final entry = {
