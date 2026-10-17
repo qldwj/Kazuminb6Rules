@@ -57,9 +57,9 @@
     "name": "dalvdm",
     "version": "1.2",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1792278555154,
+    "lastUpdate": 1792278681000,
     "icon": "https://www.sbdl.cc/template/mizhiady/statics/images/favicon.png"
   },
   {
@@ -84,9 +84,9 @@
     "name": "giriGiriLove",
     "version": "2.5",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1792278555154,
+    "lastUpdate": 1792278681000,
     "icon": "https://ani.girigirilove.com/upload/anime.girigirilove.com_.png"
   },
   {
@@ -102,9 +102,9 @@
     "name": "mgnacg",
     "version": "1.2",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1792278555156,
+    "lastUpdate": 1792278681000,
     "icon": "https://r2img.nanoacg.com/favicon.png"
   },
   {
@@ -120,9 +120,9 @@
     "name": "mutefun",
     "version": "1.4",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
-    "lastUpdate": 1792278555157,
+    "lastUpdate": 1792278681000,
     "icon": "https://image1.ljcdn.com/materials/cmsapi/1a5b58f50c23e5475dc6a8bb827035e2.png"
   },
   {
