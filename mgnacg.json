@@ -1,29 +1,37 @@
 {
-    "api": "6",
-    "type": "anime",
-    "name": "mgnacg",
-    "version": "1.0",
-    "muliSources": true,
-    "useWebview": true,
-    "useNativePlayer": true,
-    "usePost": false,
-    "useLegacyParser": false,
-    "adBlocker": false,
-    "userAgent": "",
-    "baseURL": "https://www.mgnacg.com",
-    "searchURL": "https://www.mgnacg.com/search/-------------/?wd=@keyword",
-    "searchList": "//div[@class='public-list-box search-box flex rel']",
-    "searchName": "//div/div[1]/div",
-    "searchResult": "//div/div[2]/a[1]",
-    "chapterRoads": "//ul[@class='anthology-list-play size']",
-    "chapterResult": "//li/a",
-    "referer": "",
-    "antiCrawlerConfig": {
-        "enabled": true,
-        "captchaType": 1,
-        "captchaImage": "//img[@class='ds-verify-img']",
-        "captchaInput": "//div[3]/div[2]/div/div/input",
-        "captchaButton": "//div[3]/div[2]/p/input"
+  "api": "9",
+  "type": "anime",
+  "name": "mgnacg",
+  "version": "1.2",
+  "muliSources": true,
+  "useWebview": true,
+  "useNativePlayer": true,
+  "usePost": false,
+  "useLegacyParser": false,
+  "adBlocker": false,
+  "userAgent": "",
+  "baseURL": "https://www.mgnacg.com/media/",
+  "searchURL": "",
+  "searchMode": "api",
+  "chapterMode": "xpath",
+  "searchApiConfig": {
+    "request": {
+      "method": "GET",
+      "url": "https://www.mgnacg.com/index.php/ajax/suggest",
+      "query": {
+        "mid": "1",
+        "wd": "@keyword"
+      }
     },
-    "icon": "https://r2img.nanoacg.com/favicon.png"
+    "listPath": "$.list[*]",
+    "namePath": "$.name",
+    "sourcePath": "$.id"
+  },
+  "searchList": "",
+  "searchName": "",
+  "searchResult": "",
+  "chapterRoads": "//ul[@class='anthology-list-play size']",
+  "chapterResult": ".//li/a",
+  "referer": "",
+  "icon": "https://r2img.nanoacg.com/favicon.png"
 }

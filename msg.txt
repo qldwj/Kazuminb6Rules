@@ -1,0 +1,9 @@
+feat: 规则同步与清理
+
+- 删除 omofun.json (已失效)
+- 更新 dalvdm (1.1→1.2)
+- 更新 giriGiriLove (2.4→2.5)
+- 更新 mgnacg (1.0→1.2)
+- 更新 mutefun (1.2→1.4)
+- 同步 index.json (19 条有效规则)
+- 保留所有自定义规则图标 (icon)

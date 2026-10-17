@@ -55,11 +55,11 @@
   },
   {
     "name": "dalvdm",
-    "version": "1.1",
+    "version": "1.2",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1791202361000,
+    "lastUpdate": 1792278555154,
     "icon": "https://www.sbdl.cc/template/mizhiady/statics/images/favicon.png"
   },
   {
@@ -82,11 +82,11 @@
   },
   {
     "name": "giriGiriLove",
-    "version": "2.4",
+    "version": "2.5",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1791202361000,
+    "lastUpdate": 1792278555154,
     "icon": "https://ani.girigirilove.com/upload/anime.girigirilove.com_.png"
   },
   {
@@ -100,11 +100,11 @@
   },
   {
     "name": "mgnacg",
-    "version": "1.0",
+    "version": "1.2",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1790949975000,
+    "lastUpdate": 1792278555156,
     "icon": "https://r2img.nanoacg.com/favicon.png"
   },
   {
@@ -118,11 +118,11 @@
   },
   {
     "name": "mutefun",
-    "version": "1.2",
+    "version": "1.4",
     "useNativePlayer": true,
     "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1791202361000,
+    "lastUpdate": 1792278555157,
     "icon": "https://image1.ljcdn.com/materials/cmsapi/1a5b58f50c23e5475dc6a8bb827035e2.png"
   },
   {
@@ -133,15 +133,6 @@
     "author": "",
     "lastUpdate": 1790949975000,
     "icon": "https://www.dcc3.com/favicon.ico"
-  },
-  {
-    "name": "omofun",
-    "version": "1.0.1",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1791202361000,
-    "icon": "https://omofun.in/favicon.ico"
   },
   {
     "name": "skr",
