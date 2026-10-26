@@ -73,7 +73,7 @@
   },
   {
     "name": "giriGiriLove",
-    "version": "2.5",
+    "version": "2.6",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
@@ -82,9 +82,9 @@
   },
   {
     "name": "LMM",
-    "version": "3.0",
+    "version": "3.1",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": true,
+    "antiCrawlerEnabled": false,
     "author": "",
     "lastUpdate": 1790949975000,
     "icon": "https://www.lmm85.com/template/jable/statics/icon/apple-touch-icon.png"
@@ -100,7 +100,7 @@
   },
   {
     "name": "moonci",
-    "version": "1.0",
+    "version": "1.1",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
