@@ -111,9 +111,9 @@
     "name": "mutefun",
     "version": "1.6",
     "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
+    "antiCrawlerEnabled": true,
     "author": "",
-    "lastUpdate": 1793414461000,
+    "lastUpdate": 1793414596000,
     "icon": "https://img.meituan.net/content/8dd1d4978440922528f0c0ab9818c8041313107.png"
   },
   {
