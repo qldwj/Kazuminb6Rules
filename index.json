@@ -10,7 +10,7 @@
   },
   {
     "name": "AGE",
-    "version": "1.5",
+    "version": "1.6",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
@@ -109,7 +109,7 @@
   },
   {
     "name": "mutefun",
-    "version": "1.4",
+    "version": "1.5",
     "useNativePlayer": true,
     "antiCrawlerEnabled": false,
     "author": "",
@@ -124,15 +124,6 @@
     "author": "",
     "lastUpdate": 1790949975000,
     "icon": "https://www.dcc3.com/favicon.ico"
-  },
-  {
-    "name": "skr",
-    "version": "1.0",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1791190209000,
-    "icon": "https://skr.skr2.cc:666/favicon.ico"
   },
   {
     "name": "sorani",
@@ -153,15 +144,6 @@
     "icon": "https://www.vdm5.com/favicon.ico"
   },
   {
-    "name": "xfdmneo",
-    "version": "1.1",
-    "useNativePlayer": true,
-    "antiCrawlerEnabled": false,
-    "author": "",
-    "lastUpdate": 1791683837000,
-    "icon": "https://dm1.xfdm.pro/upload/site/20240308-1/813e41f81d6f85bfd7a44bf8a813f9e5.png"
-  },
-  {
     "name": "xfdmnext",
     "version": "1.1",
     "useNativePlayer": true,
@@ -169,5 +151,14 @@
     "author": "",
     "lastUpdate": 1791202361000,
     "icon": "https://next.xifanacg.com/favicon.ico"
+  },
+  {
+    "name": "TvTFun",
+    "version": "1.3",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1793182395000,
+    "icon": "https://www.tvtfun.net/logo.svg"
   }
 ]
