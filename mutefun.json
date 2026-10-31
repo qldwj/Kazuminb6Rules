@@ -20,5 +20,15 @@
   "chapterRoads": "//div[@class*='episode-panel']",
   "chapterResult": ".//div[@class*='episode-list']/a",
   "referer": "",
+  "antiCrawlerConfig": {
+    "enabled": true,
+    "captchaType": 1,
+    "captchaImage": "//form[@data-captcha-gate-form]/img",
+    "captchaInput": "//input[@id='gate-answer']",
+    "captchaButton": "//form[@data-captcha-gate-form]//button[@type='submit']",
+    "captchaDetectType": 1,
+    "captchaDetectValue": "//input[@id='gate-answer']",
+    "captchaScript": ""
+  },
   "icon": "https://img.meituan.net/content/8dd1d4978440922528f0c0ab9818c8041313107.png"
 }
