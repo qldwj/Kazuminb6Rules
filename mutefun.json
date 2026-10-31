@@ -20,5 +20,5 @@
   "chapterRoads": "//div[@class*='episode-panel']",
   "chapterResult": ".//div[@class*='episode-list']/a",
   "referer": "",
-  "icon": "https://image1.ljcdn.com/materials/cmsapi/1a5b58f50c23e5475dc6a8bb827035e2.png"
+  "icon": "https://img.meituan.net/content/8dd1d4978440922528f0c0ab9818c8041313107.png"
 }
