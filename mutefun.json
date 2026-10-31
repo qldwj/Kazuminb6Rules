@@ -1,8 +1,8 @@
 {
-  "api": "9",
+  "api": "8",
   "type": "anime",
   "name": "mutefun",
-  "version": "1.5",
+  "version": "1.6",
   "muliSources": true,
   "useWebview": true,
   "useNativePlayer": true,
@@ -10,28 +10,15 @@
   "useLegacyParser": false,
   "adBlocker": false,
   "userAgent": "",
-  "baseURL": "https://www.mutedm.com/voddetail/",
-  "searchMode": "api",
+  "baseURL": "https://www.mutedm.com/",
+  "searchMode": "xpath",
   "chapterMode": "xpath",
-  "searchApiConfig": {
-    "request": {
-      "method": "GET",
-      "url": "https://www.mutedm.com/index.php/ajax/suggest",
-      "query": {
-        "mid": "1",
-        "wd": "@keyword"
-      }
-    },
-    "listPath": "$.list[*]",
-    "namePath": "$.name",
-    "sourcePath": "$.id"
-  },
-  "searchURL": "",
-  "searchList": "",
-  "searchName": "",
-  "searchResult": "",
-  "chapterRoads": "//div[contains(@class,'module-play-list-content')]",
-  "chapterResult": ".//a[contains(@class,'module-play-list-link')]",
+  "searchURL": "https://www.mutedm.com/search?q=@keyword",
+  "searchList": "//div[@class*='video-grid']/a[@class*='video-card']",
+  "searchName": ".//span[@class*='video-card-title']",
+  "searchResult": "@href",
+  "chapterRoads": "//div[@class*='episode-panel']",
+  "chapterResult": ".//div[@class*='episode-list']/a",
   "referer": "",
   "icon": "https://image1.ljcdn.com/materials/cmsapi/1a5b58f50c23e5475dc6a8bb827035e2.png"
 }
