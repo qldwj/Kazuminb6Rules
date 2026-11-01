@@ -117,6 +117,15 @@
     "icon": "https://www.dcc3.com/favicon.ico"
   },
   {
+    "name": "sorani",
+    "version": "1.0",
+    "useNativePlayer": true,
+    "antiCrawlerEnabled": false,
+    "author": "",
+    "lastUpdate": 1791202361000,
+    "icon": "https://www.sorani.net/favicon.ico"
+  },
+  {
     "name": "TvTFun",
     "version": "1.3",
     "useNativePlayer": true,
